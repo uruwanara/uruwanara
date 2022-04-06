@@ -23,9 +23,14 @@ I am an energetic, ambitious person who has good teamwork skills and seeking a g
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=254BDD&color=008B8B)
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=5BCBE8&color=008B8B)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=1F77C7&color=008B8B)
-![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0174CF&color=008B8B)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=0174CF&color=008B8B)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=000000&color=008B8B)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=7248B6&color=008B8B)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=0174CF&color=008B8B)
+
+![](https://aleen42.github.io/badges/src/photoshop.svg)
+![](https://aleen42.github.io/badges/src/illustrator.svg)
+![](https://aleen42.github.io/badges/src/after_effects.svg)
+![](https://aleen42.github.io/badges/src/premiere.svg)
+
