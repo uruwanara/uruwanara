@@ -1,19 +1,4 @@
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+<h2> Hi, I'm Uthpala Ruwanara <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Undergraduate at <a href="https://ucsc.cmb.ac.lk/">University of Colombo, School of Computing</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Associate Software Engineer at <a href="https://www.ifs.com/">IFS R&D International (Pvt) Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
