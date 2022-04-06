@@ -15,6 +15,7 @@ I am an energetic, ambitious person who has good teamwork skills and seeking a g
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=000000&color=008B8B)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=0069B4&color=008B8B)
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cplusplus&logoColor=6295CB&color=008B8B)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=csharp&logoColor=6295CB&color=008B8B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=EFD81D&color=008B8B)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB3&color=008B8B)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=6EA55F&color=008B8B)
