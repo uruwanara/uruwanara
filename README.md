@@ -6,6 +6,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 I am an undergraduate student who is reading for a Computer Science Degree with skills in Software Engineering and UI/UX Designing. I am currently working as an Associate Software Enginner at Acumatica R&D team @IFS.
 I am an energetic, ambitious person who has good teamwork skills and seeking a good challenging job role in order to grow and further improve my IT skills.
+### Languages Used  & Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uruwanara&layout=compact&bg_color=1C1E4D&title_color=669AD6&theme=shades-of-purple&hide_border=true)
 
 ### Technologies  & Tools
 
