@@ -6,3 +6,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 I am an undergraduate student who is reading for a Computer Science Degree with skills in Software Engineering and UI/UX Designing. I am currently working as an Associate Software Enginner at Acumatica R&D team @IFS.
 I am an energetic, ambitious person who has good teamwork skills and seeking a good challenging job role in order to grow and further improve my IT skills.
+
+### Technologies  & Tools
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0174CF&color=B40C75)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=000000&color=B40C75)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=0069B4&color=B40C75)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cplusplus&logoColor=6295CB&color=B40C75)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=EFD81D&color=B40C75)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB3&color=B40C75)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=6EA55F&color=B40C75)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=5BCBE8&color=B40C75)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=7248B6&color=B40C75)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=254BDD&color=B40C75)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=1F77C7&color=B40C75)
